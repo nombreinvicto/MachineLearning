@@ -11,7 +11,7 @@ Classifier model to predict survival rates for the Titanic Dataset
 encountered in [Project 0](https://github.com/nombreinvicto/MachineLearning/tree/master/Project0_TitanicSurvival).
 A decision tree classifier with optimised hyperparameters 
 (obtained via GridSearch) was able to obtain an impressive accuracy
- of around 88% on testing data. This was atleast an 8% increase over 
+ of around 91% on testing data. This was atleast an 10% increase over 
  the crude model constructed in Project 0.
 
 Technology Used:

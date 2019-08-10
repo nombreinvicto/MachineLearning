@@ -1,4 +1,4 @@
-### Project 3: Descriptive Statistical Analysis of Fuel Economy
+### Project 6: Finding Donors for CharityML
 <p align="center">
     <img width="600" height="300"
      src="https://www.thelifeyoucansave.org/Portals/0/Blog/americancharity.jpg">
